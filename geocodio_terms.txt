@@ -1,0 +1,231 @@
+Terms of Use
+
+Please read these Terms carefully. By using Geocodio or signing up for an account, you’re agreeing to these Terms. This is a legal agreement.
+
+Geocodio (“Geocodio” or the “Service”) is an API offered through the URL geocod.io and api.geocod.io (referred to it as the “Website”) that allows you to generate latitude and longitude for US addresses (“geocoding”). Geocodio is owned and operated by Dotsquare, LLC, a Virginia limited liability corporation (“Dotsquare,” “Geocodio,” “we,” or “us”). As a customer of the Service or a representative of an entity that’s a customer of the Service, you're a “Member” according to this agreement (or “you”).
+
+These Terms of Use (“Terms,” including our API Guidelines ) define the terms and conditions under which you’re allowed to use Geocodio and how we’ll treat your account while you’re a Member. If you have any questions about our terms, please contact us.
+
+ACCOUNT
+
+1. Eligibility
+
+In order to use Geocodio, you must:
+
+be at least eighteen (18) years old and able to enter into contracts;
+complete the registration process;
+agree to the Terms;
+provide valid credit card information, if you wish to get geocodes for more than 2,500 addresses per day; and
+provide true, complete, and up to date contact information.
+By using Geocodio, you represent and warrant that you meet all the requirements listed above, and that you won&rrsquo;t use Geocodio in a way that violates any laws or regulations. Geocodio may refuse service, close accounts of any users, and change eligibility requirements at any time.
+
+2. Term
+
+The Term begins when you sign up for Geocodio and continues as long as you use the Service. Clicking the button and entering your email address means that you’ve officially “signed” the Terms. If you sign up for Geocodio on behalf of a company or other entity, you represent and warrant that you have the authority to accept these Terms on their behalf.
+
+3. Closing Your Account
+
+You or Geocodio may terminate this Agreement at any time and for any reason by giving Notice to the other party. We may suspend our Service to you at any time, with or without cause. We won’t refund or reimburse you if there’s cause, like a violation of these Terms or our Acceptable Use Policy. Once terminated, we may permanently delete your account and all the data associated with it. If you don’t log in to your account for 12 or more months, we may treat your account as "inactive" and permanently delete the account and all the data associated with it.
+
+4. Changes
+
+We may change any of the Terms by posting revised Terms of Use on our Website and/or by sending an email to the last email address you gave us. Unless you terminate your account within ten (10) days, the new Terms will be effective immediately and apply to any continued or new use of Geocodio. We may change the Website, the Service, or any features of the Service at any time.
+
+5. Account and Password
+
+You’re responsible for keeping your account name and password confidential. You’re also responsible for any account that you have access to, whether or not you authorized the use. You’ll immediately notify us of any unauthorized use of your accounts. We’re not responsible for any losses due to stolen or hacked passwords. We don’t have access to your current password, and for security reasons, we may only reset your password.
+
+6. Account Disputes
+
+We don't arbitrate disputes over who owns an account. You won't request access to or information about an account that's not yours, and you'll resolve any account-related disputes directly with the other party. We decide who owns an account based on the contact information listed for that account.
+
+PAYMENT
+
+7. Credit Cards
+
+As long as you have an outstanding balance with us, you'll provide us with valid credit card information and authorize us to deduct the monthly charges against that credit card. If you do not have a credit card on file, you will be limited to 2,500 requests per day. If you have a credit card on file and make more than 2,500 requests in a day, you understand that you will be charged for your usage beyond 2,500 requests. You’ll replace the information for any credit card that expires with information for a different valid credit card. Anyone using a credit card represents and warrants that he or she is authorized to use that credit card, and that any and all charges may be billed to that credit card and won’t be rejected. If, for some reason, we’re unable to process your credit card order, we’ll try to contact you by email and suspend your account until your payment can be processed. We will bill you on the first of the following month for any charges (i.e., on February 1 you will receive an invoice for January usage, which will be automatically deducted from your credit card on file). We use Stripe (www.stripe.com) for payment processing and are not responsible for any errors or issues that are the fault of Stripe.
+
+8. Changes
+
+We may change our fees at any time by posting a new pricing structure to our Website and/or sending you a notification by email.
+
+RIGHTS
+
+12. Proprietary Rights Owned by Us
+
+You shall respect our proprietary rights in the Website and the software used to provide Geocdio (proprietary rights include patents, trademarks, service marks, and copyrights).
+
+13. Proprietary Rights Owned by You
+
+You represent and warrant that you either own or have permission to use all of the material you geocode through our API. You retain ownership of the materials you upload to the Service. We may use or disclose your materials only as we describe in these Terms.
+
+14. Privacy Policy
+
+We retain the right to access, use and disclose your information as it relates to your use of Geocodio in an anonymized manner and for quality control reasons. We will never sell, share, or otherwise disclose your information or information about your usage to a third party unless we are required to by law enforcement. You may opt out of anonymized sharing of information and quality control by emailing us.
+
+RULES AND ABUSE
+
+16. General Rules
+
+If you use our API, you'll comply with our API Use Policy . If you violate any of these rules, then we may suspend or terminate your account. Use of our API means that you understand both these Terms and the API Use Policy and agree to comply.
+
+17. Reporting Abuse
+
+If you think anyone is violating any of these Terms, please notify us immediately.
+
+18. Bandwidth Abuse/Throttling
+
+We may throttle your sending or connection through our API at our discretion.
+
+19. Compliance with Laws
+
+You represent and warrant that your use of Geocodio will comply with all applicable laws and regulations. You’re responsible for determining whether our Services are suitable for you to use in light of any regulations like HIPAA, GLB, EU Data Privacy Laws, or other laws. If you're subject to regulations (like HIPAA) and you use our Service, then we won't be liable if our Service doesn't meet those requirements. If you’re located in the European Economic Area (EEA) or send to anyone in the EEA, you represent and warrant that you:
+
+Have complied, and will comply, with all regulations, as well as data protection, electronic communication, and privacy laws that apply to the countries where you’re using Geocodio.
+Have collected, stored, used, and transferred all data relating to any individual in compliance with all data protection laws and regulations.
+Agree to indemnify and hold us harmless from any losses, including attorney fees, that result from your breach of any part of these warranties.
+20. U.S. Export Controls
+
+The software that supports the Services (the "Software") is subject to United States export controls. None of the Software may be downloaded or otherwise exported or re-exported in violation of United States export laws. You’re downloading and using the Software at your own risk.
+
+LIABILITY
+
+21. Limitation of Liability
+
+To the maximum extent permitted by law, you assume full responsibility for any loss that results from your use of the Website and the Services, including any downloads from the Website. We and our Team won’t be liable for any indirect, punitive, special, or consequential damages under any circumstances, even if they’re based on negligence or we’ve been advised of the possibility of those damages. Our total liability for all claims made about the Service in any month will be no more than what you paid us for the Service the month before.
+
+22. No Warranties
+
+To the maximum extent permitted by law, we provide the material on the Website and the Service as is. That means we don’t provide warranties of any kind, either express or implied, including but not limited to warranties of merchantability and fitness for a particular purpose.
+
+23. Indemnity
+
+You agree to indemnify and hold us and our Team harmless from any losses (including attorney fees) that result from any claims you make that aren’t allowed under these Terms due to a "Limitation of Liability" or other provision. You also agree to indemnify and hold us harmless from any losses (including attorney fees) that result from third-party claims that you or someone using your password did something that, if true, would violate any of these Terms.
+
+24. Attorney Fees
+
+If we file an action against you claiming you breached these Terms and we prevail, we’re entitled to recover reasonable attorney fees and any damages or other relief we may be awarded.
+
+25. Liquidated Damages
+
+In some cases, a breach of these Terms could cause damages, but proving the actual damages would be impossible. These cases will result in the corresponding liquidated damages, which are a reasonable pre-estimate of the damages, and are as follows: if you don&rsqursquo;t pay an amount due within thirty (30) days after we send you a late payment notice, then the liquidated damages will be three times the total amount you paid us over the past 12 months, but not less than $540 plus the amount owed.
+
+26. Equitable Relief
+
+If you violate these Terms then we may seek injunctive relief (meaning we may request a court order to stop you) or other equitable relief.
+
+27. Subpoena Fees
+
+If we have to provide information in response to a subpoena  related to your account, then we may charge you for our costs. These fees may include attorney and employee time spent retrieving the records, preparing documents, and participating in a deposition.
+
+28. Disclaimers
+
+We and our Team aren’t responsible for the behavior of any linked websites or other Members.
+
+FINE PRINT
+
+29. Notice to U.S. Government End Users
+
+The Software and Website, including all documentation, are "Commercial Items," as that term is defined at 48 C.F.R. §2.101, and consist of "Commercial Computer Software" and "Commercial Computer Software Documentation." The Commercial Computer Software and Commercial Computer Software Documentation are licensed to U.S. Government end users:
+
+only as Commercial Items,
+with the same rights as all other end users, and
+according to the Terms
+Published and Unpublished rights are reserved under the copyright laws of the United States. Manufacturer is Dotsquare LLC, Washington DC.
+
+30. Assignments
+
+You may not assign any of your rights under this agreement to anyone else. We may assign our rights to any other individual or entity at our discretion.
+
+31. Choice of Law
+
+The Virginia’s laws, except for conflict of laws rules, will apply to any dispute related to these Terms or the Service. Any dispute related to the Terms, the Privacy Policy, or the Service itself will be decided by the state and federal courts in the Virginia, and each party will be subject to the jurisdiction of those courts.
+
+32. Force Majeure
+
+We won’t be held liable for any delays or failure in performance of any part of the Service, from any cause beyond our control. This includes, but is not limited to, acts of God, changes to law or regulations, embargoes, war, terrorist acts, riots, fires, earthquakes, nuclear accidents, zombie apocalypse, floods, strikes, power blackouts, volcanic action, unusually severe weather conditions, and acts of hackers or third-party internet service providers.
+
+33. Survivability
+
+Even if this Agreement is terminated, the following sections will continue to apply: Proprietary Rights Owned by Us, Proprietary Rights Owned by You, Compliance with Laws, Limitation of Liability, No Warranties, Indemnity, Choice of Law, Severability, and Entire Agreement.
+
+34. Severability
+
+If it turns out that a section of this Agreement isn’t enforceable, then that section will be removed or edited as little as necessary, and the rest of the Terms will still be valid.
+
+35. Interpretation
+
+The headers and sidebar text are provided only to make this agreement easier to read and understand. The fact that we wrote these Terms won’t affect the way this Agreement is interpreted.
+
+36. Amendments and Waiver
+
+Amendments or changes to these Terms won’t be effective until we post revised Terms on the Website. That aside, additional terms may apply to certain features of the Service (the "Additional Terms"). The Additional Terms will be considered incorporated into these Terms when you activate the feature. Where there’s a conflict between these Terms and the Additional Terms, the Additional Terms will control. If we don’t immediately take action on a violation of these Terms, we’re not giving up any rights under the Terms, and we may still take action at some point.
+
+37. No Changes in Terms at Request of Member
+
+Because we have so many Members, we can’t change these Terms for any one Member or group. If we did that, keeping up with the changes would be a logistical nightmare. So no changes, no exceptions.
+
+38. Further Actions
+
+You’ll provide all documents and take any actions necessary to meet your obligations under these Terms.
+
+39. Notification of Security Breach
+
+In the event of a security breach that may affect you, we’ll notify you of the breach and provide a description of what happened.
+
+40. Notices
+
+Any notice to you will be effective when we send it to the last email or physical address you gave us or posted on our Website. Any notice to us will be effective when delivered to us via email.
+
+41. Entire Agreement
+
+These Terms, our Privacy Policy, Acceptable Use Policy, API Guidelines (all of which are incorporated into these Terms by reference), and any Additional Terms you’ve agreed to make up the entire agreement and supersede all prior agreements, representations, and understandings.
+
+Geocodio (the “Service”) has an API that you can access at https://api.geocod.io  and https://dash.geocod.io (the “API”). Your use of the API must comply with both this Policy and our Terms of Use.
+
+API Guidelines
+
+1. Login
+
+You will only be able to access the Geocodio API using a valid API key.
+
+2. Spam and Abuse
+
+You’ll follow all documentation  we provide for the APIs. You won’t attempt to hack or change the way the Services function. We may throttle your use of the APIs at any time. We may monitor your use of the APIs for compliance with these rules, and we may deny you access to the API or shut down your Integration if you try to go around or exceed the limitations we set.
+
+3. Privacy
+
+You’ll respect the privacy of our users. Your Integration must display a privacy policy for users, detailing the information you’ll collect from them when they use the Integration.
+
+4. Ownership
+
+We own all worldwide rights, titles, and interest in the Service and the API, including all intellectual property rights, marks, code, and features. You won’t infringe or copy our code, design, or content. Any rights not expressly granted by this policy are withheld, so if you don’t see it here, then it’s not a right we’re giving you. You own all worldwide rights, titles, and interest in the Integration, except for the API, our marks, and the Service, including all intellectual property rights. If you give us comments about the API or the Service, we may copy, modify, create derivative works, display, disclose, distribute, and use that feedback without any obligation to compensate you.
+
+5. Use of Marks
+
+You may not alter or remove any proprietary notices in our marks. You won’t use our name or marks in your Integration name or logo, or in any way that implies an endorsement by us. If you use our marks to create your logo or name, you’ll immediately assign those rights to us at no expense.
+
+6. Representations and Warranties
+
+You represent and warrant that you’ll maintain all the licenses required for your Integration, and that your Integration won’t violate any law or regulations in any way.
+
+7. Disclaimer
+
+To the maximum extent permitted by law, We provide the API as-is. That means we don’t provide warranties of any kind, either express or implied, including but not limited to merchantability and fitness for a particular purpose.
+
+8. Updates
+
+We may update or modify the API and this Policy from time to time by posting the changes on this site or notifying you via email. These changes may affect your use of the API or the way your Integration interacts with the API. If we make a change that’s unacceptable to you, you should stop using the API. Continued use of the API means you accept the change.
+
+9. Confidentiality
+
+You may have access to confidential, proprietary, and non-public information specific to the API (“Confidential Information”). You may use this information only to use and build with the API. You won’t disclose the Confidential Information to anyone without our written consent, and you’ll protect the Confidential Information from unauthorized use and disclosure in the same way you’d protect your own confidential information.
+
+10. Indemnification
+
+You'll indemnify and hold us and our Team harmless from any losses (including attorney fees) that result from third-party claims that relate to your use of the API.
+
+11. Note
+
+This policy is part of our Terms of Use. This policy doesn’t create or imply any partnership, agency, or joint venture.:w
+
