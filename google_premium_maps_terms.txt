@@ -1,0 +1,395 @@
+Google Maps
+MASTER TERMS: Google Maps APIs
+
+These Google Maps APIs Master Terms (these “Master Terms”) are between Google Inc., whose principal place of business is at 1600 Amphitheatre Parkway, Mountain View, CA 94043 (“Google”) and the customer identified on the applicable Order Form (“Customer”). These Master Terms will be effective as of the date specified on the applicable Order Form (the “Master Terms Effective Date”).
+
+Background
+A. These Master Terms contains general terms applicable to all Google Maps APIs Services.
+B. Depending on the specific Services that Customer orders in an Order Form, Customer will also enter into separate Service Addendum(s) covering those specific Services.
+C. If a Customer has obtained the Services through an authorized reseller, then the terms of the Resale Customer Addendum below will also apply.
+Agreement
+1. Definitions and Interpretation. In these Master Terms:
+1.1 “Affiliate” means any entity that directly or indirectly controls, is controlled by, or is under common control with that party.
+1.2 “Agreement” has the meaning in Section 2.2 (Agreements).
+1.3 “Anti-Bribery Laws” means all applicable commercial and public anti-bribery laws, (for example, the U.S. Foreign Corrupt Practices Act of 1977 and the UK Bribery Act 2010), which prohibit corrupt offers of anything of value, either directly or indirectly, to anyone, including government officials, to obtain or keep business or to secure any other improper commercial advantage. “Government officials” include any government employee; candidate for public office; and employee of government-owned or government-controlled companies, public international organizations, and political parties.
+1.4 “Brand Features” means each party’s trade names, trademarks, logos, domain names, and other distinctive brand features.
+1.5 “Confidential Information” means information that one party (or an Affiliate) discloses to the other party under an Agreement, and that is marked as confidential or would normally be considered confidential information under the circumstances. It does not include information that is independently developed by the recipient, is rightfully given to the recipient by a third party without confidentiality obligations, or becomes public through no fault of the recipient. Google’s Confidential Information includes the Services’ pricing and specific functionality.
+1.6 “Content” means any content provided by Google through the Services (whether created by Google or its third party licensors), including map and terrain data, photographic imagery, and traffic data.
+1.7 “Customer Data” means data points or search terms (for example, latitude/longitude coordinates or IP addresses) that Customer submits to Google under an Agreement.
+1.8 “Customer Implementation” means Customer’s internal or external website(s) and software application(s) (or features of those websites or application) that (a) incorporate the Service(s) in order to obtain and display Content in conjunction with Customer Data; and (b) are listed on the Order Form (or added under Maps APIs Premium Plan Service Addendum Section 4.1 (Customer Domains and Applications)).
+1.9 “End User” means an individual human end user of the Customer Implementation.
+1.10 “Export Control Laws” means all applicable export and re-export control laws and regulations, including any applicable munitions- or defense-related regulations (for example, the International Traffic in Arms Regulations maintained by the U.S. Department of State).
+1.11 “Fees” means the fees for the applicable Services, as listed in an Order Form.
+1.12 “Google API(s)” means the Google application programming interfaces at https://developers.google.com/products/.
+1.13 “Google Maps” means the Google service at https://www.google.com/maps.
+1.14 “including” means “including but not limited to”.
+1.15 “Intellectual Property Rights” means all patent rights, copyrights, trademark rights, rights in trade secrets, database rights, moral rights and any other intellectual property rights (registered or unregistered) throughout the world.
+1.16 “License Term” means the period during which Customer is authorized to use the Services under each Agreement, as described in each Agreement’s Order Form.
+1.17 “Order Form” means an order form signed by Customer and Google subject to the Agreement and containing:
+(A) SKU(s);
+(B) SKU description(s) (including applicable License Term(s));
+(C) authorized domains and applications where the Services may be used;
+(D) billing units (for example, the number of Maps API Credits, Page Views, Queries or Assets Tracked, or all of the above, as defined in the applicable Service Addendum(s));
+(E) quantity of Services; and
+(F) Fees.
+1.18 “Prohibited Territory” means the countries listed at https://enterprise.google.com/maps/terms/maps-prohibited-territory.html.
+1.19 “Service Addendum” means a document that incorporates these Master Terms and describes the specific terms and conditions applicable to that particular addendum’s Services.
+1.20 “Service Documentation” means the Service documentation at https://developers.google.com/maps/documentation/business/.
+1.21 “Service(s)” means the Google service(s) as described in the applicable Agreement’s Service Addendum. “Service(s)” may have a more detailed supplementary definition in each respective Service Addendum.
+1.22 “SKU” means stock keeping unit, a unique identifier for each distinct service that Customer can purchase under an Agreement.
+1.23 “Taxes” means all government-collected taxes, except for taxes based on Google’s net income, net worth, asset value, property value, and employment.
+1.24 “Technical Support Services Guidelines” means Google’s then-current guidelines for Service-specific technical support services, accessible at the URL provided in the applicable Service Addendum (or such other URL as Google may provide).
+1.25 “Term” means the term of these Master Terms, which will begin on the Master Terms Effective Date and continue until the earlier of: (a) the termination of all Agreements; or (b) termination of these Master Terms.
+1.26 “URL Terms” are those uniform resource locator addresses provided by Google in each Service Addendum that refer to applicable Google policies and terms of service. The term “URL Terms” may have a more detailed supplementary definition in each respective Service Addendum.
+1.27 “Use Limit” means the limit for Customer’s use of the Services, as listed on the Order Form or provided to Customer within the applicable Service Documentation (at the URL stated in the applicable Service Addendum).
+1.28 Any examples in these Master Terms are illustrative and not the sole examples of a particular concept.
+1.29 Google may provide updated locations and terms for any URLs listed in an Agreement, subject to Section 3.4 (Modifications to the URL Terms).
+2. Governing Documents.
+2.1 Master Terms. These Master Terms will apply to all Google Maps-related Google Cloud Services that Customer orders in an Order Form.
+2.2 Agreements. Each Order Form will form a separate (and separately terminable) agreement (an “Agreement”) between Customer and Google incorporating:
+(A) the Order Form;
+(B) the applicable Service Addendum;
+(C) these Master Terms; and
+(D) the URL Terms.
+2.3 Order of Precedence. If any documents conflict, the parties will interpret them in descending order of precedence in the order listed in Section 2.2(A) through (D). For example, if there is a conflict between the Order Form and the applicable Service Addendum, the Order Form will take precedence.
+3. Terms of Service.
+3.1 Service-Specific Terms. Each Service Addendum will contain the applicable licenses and other Service-specific terms governing Customer’s use of the Services.
+3.2 Technical Support Services.
+(A) Subject to Customer’s compliance with the applicable Agreement (including payment of all applicable Fees and Taxes), Google will provide Customer with technical support services during the License Term in accordance with the Order Form and the Technical Support Services Guidelines.
+(B) If an Order Form or Service Addendum does not identify a support level, then Google will provide Silver Support as described in the Technical Support Services Guidelines.
+(C) Customer will implement technical updates in accordance with the Technical Support Services Guidelines.
+3.3 Updates to the Services. Google may update the Services as long as the Services materially conform to the Services Description (as defined in the applicable Service Addendum) that was in effect on the applicable Service Addendum’s effective date. Google will notify Customer of material updates to the Services if Customer has subscribed at google.com/work/portal to receive notices.
+3.4 Modifications to the URL Terms.
+(A) Google may make commercially reasonable modifications to the URL Terms applicable to an Agreement. Google will notify Customer of material modifications to the URL Terms if Customer has subscribed at google.com/work/portal to receive notices.
+(B) If Google materially modifies the URL Terms and Customer demonstrates that such modification has a material adverse impact on Customer, Customer may notify Google within 30 days after receiving notice of the modification and remain subject to the URL Terms that were in effect prior to the applicable modification, until the applicable Agreement renewal date, unless the modification to the URL Terms is (1) in response to a court order or to comply with applicable law; or (2) related to the technical support services. 
+3.5 Third-Party Components.
+(A) If Google provides to Customer third-party software components under any Agreement, Google will identify those components in the Service Documentation, and Customer may use those third-party components in connection with Google’s software, subject to the applicable Agreement.
+(B) If the software provided in connection with any Agreement includes components governed by open source licenses, the following will apply:
+(1) To the extent the open source licenses are inconsistent with the applicable Agreement, the open source licenses will govern Customer’s use of the components.
+(2) If those open source licenses require the provision of corresponding source code for those components, Google provides that source code consistent with those open source licenses.
+3.6 Unauthorized Use.Customer will use all reasonable efforts to prevent and terminate any unauthorized use of the Services.
+3.7 Privacy.
+(A) General Privacy Requirements.
+(1) End User Privacy. Customer will obtain and maintain all required consents from End Users in accordance with applicable data protection law to allow: (a) Customer to access, monitor, use, or disclose any data submitted through the Customer Implementation; and (b) Google to provide the Services to Customer.
+(2) No Personally Identifiable Information. Customer will not provide to Google any End User personally identifiable information or device identifiers.
+(3) Cookies. As noted in the Service Documentation, certain Services store and access cookies and other information on End Users’ devices. If Customer uses any of these cookie-enabled Services in the Customer Implementation, then for End Users in the European Union, Customer must comply with the EU End User Consent Policy at https://www.google.com/about/company/user-consent-policy.html.
+(B) Geolocation Privacy Requirements.
+(1) End User Notification. Customer will ensure that the Customer Implementation(s) notify End Users in advance of the type(s) of data that Customer intends to collect from the End Users or the End Users’ devices. If Customer intends to obtain the End User's location and use it with any other data provider's data, Customer must disclose this fact to the End User.
+(2) End User Consent. Customer will ensure that the Customer Implementation(s) (a) do not obtain or cache any End User's location in any manner except with the End User's prior consent; and (b) will let the End User revoke that consent at any time.
+(3) No Geolocation Data that identifies individual End Users. If the Customer Implementation(s) provide Google with geolocation data, that geolocation data must not enable Google to identify an individual End User. For example, if a Customer Implementation sends Google any Customer Data, and the Customer Data includes geolocation data, the Customer Data must not also include unique device identifiers associated with individual End Users.
+4. Services Restrictions. In this Section 4, the phrase “Customer will not” means “When using the Service, Customer will not, and will not permit a third party to”.
+4.1 Administrative Restrictions.
+(A) No access to APIs or Content except through the Service. Google will provide Customer one or more Customer IDs (which may include an API console key or a client identification number) for use in accessing and administering the Services. Customer will not access Google’s API(s) or the Content except through the Services using the applicable Customer IDs. For example, Customer must not access map tiles or imagery through interfaces or channels (including undocumented Google interfaces) other than the applicable Google API(s).
+(B) No hiding identity. Customer will not hide from Google the identity of the Customer Implementations. Customer must follow the identification conventions in the Maps APIs Service Documentation.
+4.2 General Google API Restrictions. The following restrictions apply generally to all Google products and services, including the Google API(s). Customer will not:
+(A) sublicense a Google API for use by a third party. Consequently, Customer will not create an API client that functions substantially the same as the Google APIs and offer it for use by third parties;
+(B) perform an action with the intent of introducing to Google products and services any viruses, worms, defects, Trojan horses, malware, or any items of a destructive nature;
+(C) defame, abuse, harass, stalk, or threaten others;
+(D) interfere with or disrupt the Google APIs or the servers or networks providing the Google APIs;
+(E) promote or facilitate unlawful online gambling or disruptive commercial messages or advertisements;
+(F) reverse engineer or attempt to extract the source code from any Google API or any related software, except to the extent that this restriction is expressly prohibited by applicable law;
+(G) use the Google APIs for any activities where the use or failure of the Google APIs could lead to death, personal injury, or environmental damage (such as the operation of nuclear facilities, air traffic control, or life support systems);
+(H) use the Google APIs to process or store any data that is subject to the International Traffic in Arms Regulations maintained by the U.S. Department of State; or
+(I) remove, obscure, or alter any Google terms of service, or any links to or notices of those terms.
+4.3 Regulatory Compliance Restrictions. Customer will not distribute the Services or Content in the Prohibited Territory.
+4.4 Quality Standards Restrictions.
+(A) No violation of Google's Software Principles. Customer will not violate Google's Software Principles at https://www.google.com/intl/en/about/company/software-principles.html.
+(B) No modification of search results. Customer will not modify, reorder, augment, or manipulate search results in any way unless Customer explicitly notifies the End User of Customer’s actions.
+4.5 Restrictions on Unfair Exploitation of the Service and Content.
+(A) No use except under an applicable Agreement and SKU(s). Customer will not use the Service or Content except as expressly permitted under an Agreement and unless it has purchased an applicable SKU permitting that use. For example:
+(1) No fees. Customer will not charge any third party a fee to use a Customer Implementation, the Services, or the Content, unless Customer (i) has purchased an applicable SKU that expressly permits this use, and (ii) the parties have signed the applicable Service Addendum terms for this use (for example, Section 7 (Integrator Rights and Obligations) of the Maps APIs Premium Plan Service Addendum).
+(2) No printing 5,000+ copies for direct marketing. Customer will not print more than 5,000 copies of sales collateral materials containing a screenshot of the Content for purposes of commercial sales lead generation.
+(3) No use as a core part of printed matter. Customer will not incorporate the Content as a core part of printed matter (such as a printed map or guide book) that is redistributed for a fee.
+(B) No use beyond Use Limits and usage policies. Customer will not use the Services beyond the Use Limits and usage policies of the applicable SKUs, Order Forms, and Service Documentation.
+(C) Restrictions on Customer Implementations.
+(1) No creation of a substitute service. Customer will not use the Service to create a Customer Implementation that is a substitute for, or a substantially similar service to, Google Maps or the Service.
+(2) No navigation. Customer will not use the Service or Content for or in connection with (a) real-time navigation or route guidance; or (b) automatic or autonomous vehicle control.
+(3) No commercial asset-tracking unless Customer has purchased the applicable SKU. Unless Customer has purchased an applicable SKU that expressly permits it to do so, Customer will not use the Service or Content for commercial Asset Tracking (as the terms “Assets” and “Track” are defined in the Maps APIs Premium Plan Service Addendum) or in Customer Implementations whose primary purpose is to assess vehicle insurance risks.
+(a) Commercial Asset Tracking includes dispatch, fleet management, and Customer Implementations that track Customer’s or Customer’s customers’ Assets (for example, private or commercial transportation applications, including taxi and vehicle-for-hire applications).
+(b) Non-commercial Asset Tracking implementations include applications used for a non-commercial purpose (for example, a free, publicly-accessible Customer Implementation that displays real-time public transit or other transportation status information or that allows End Users to share real-time location with others).
+(4) No use of Content in a listings service. Customer will not use business listings-related Content in any Customer Implementation that has the primary purpose of making available business, residential address, or telephone directory listings.
+(5) No use of Content for an ads product. Customer will not use business listings-related Content to create or augment an advertising product.
+(D) No use of Content without a Google map. Unless the Service Documentation expressly permits Customer to do so, Customer will not use the Content in a Customer Implementation without a corresponding Google map. For example, Customer may display Street View imagery without a corresponding Google map because the Maps APIs Service Documentation expressly permits this use.
+(E) No use of Content with a non-Google map. Customer must not use the Content in a Customer Implementation that contains a non-Google map.
+(F) No use of development kits in a production environment. Google may provide Customer with “development kit” access, by giving Customer an identification key that allows Customer to access a Service’s developmental and technical support features. Customer will only use development kits for development or educational purposes and will not use development kits in a production environment.
+4.6 Intellectual Property Restrictions.
+(A) No distribution or sale except as permitted under the Agreement. Customer will not distribute, sell, or otherwise make any part of the Services available to third parties except as permitted in the applicable Agreement.
+(B) No derivative works. Customer will not modify, or create a derivative work based on, any Content unless expressly permitted to do so under an applicable Agreement. For example, the following are prohibited: (1) creating server-side modification of map tiles; (2) stitching multiple static map images together to display a map that is larger than permitted in the Service Documentation; and (3) tracing or copying the copyrightable elements of Google’s maps or building outlines and creating a new work, such as a new mapping or navigation dataset.
+(C) No creation of mapping-related data sets based on Google’s Content or Services. Customer will not use Google’s Content or Services to create or augment any mapping-related dataset (including a mapping or navigation dataset, business listings database, mailing list, or telemarketing list) for use in an implementation that is not connected to the Services.
+(D) No use of Content outside the Service. Customer will not use any Content outside of the Service except as expressly permitted to do so in Subsection (E) (No Caching or Storage). For example, Customer will not export or save the Content (including Google Places API Content) to a third party’s platform or service, or distribute the Content through third-party servers.
+(E) No Caching or Storage. Customer will not pre-fetch, cache, index, or store any Content to be used outside the Service, except that Customer may store limited amounts of Content if such storage:
+(1) is only for the purpose of improving the performance of the Customer Implementation due to network latency;
+(2) is not for the purpose of preventing Google from accurately tracking billing units;
+(3) is temporary (not more than 30 days);
+(4) is secure;
+(5) does not manipulate or aggregate any part of the Content or Service; and
+(6) does not modify attribution in any way.
+(F) No mass downloading. Customer will not use the Service in a manner that gives Customer or a third party access to mass downloads or bulk feeds of any Content. For example, Customer is not permitted to offer a batch geocoding service that uses Content contained in the Maps API(s).
+(G) No incorporating Google software into application development platforms. Customer will not incorporate any software provided as part of the Services into a platform, toolkit, or similar product that permits others to build software applications. For example, Customer will not incorporate Maps APIs into a mobile application development platform.
+(H) No removing, obscuring, or altering proprietary rights notices.
+Customer will not:
+(1) remove, obscure, or alter any copyright, trademark, or other proprietary rights notices; or
+(2) falsify or delete any author attributions, legal notices, or other labels of the origin or source of material.
+5. Customer Data License. By submitting Customer Data to Google through the Services, Customer grants to Google a perpetual, irrevocable, non-exclusive, worldwide, sublicensable, royalty-free license to use the Customer Data solely for the following purposes:
+(A) providing and improving the Services;
+(B) if Customer opts to submit Customer Data through the Google Places API(s), allowing Google to use the Customer Data in Google products and services; and
+(C) if Customer opts to do so through the Customer Implementation's features, giving End Users the ability to use the Customer Data in Google products and services.
+6. Orders and Payment.
+6.1 Purchase Process. Google will provide Customer with an Order Form for each transaction to facilitate ordering.
+6.2 Orders.
+(A) Purchase Orders.
+(1) If Customer requires a purchase order number on its invoice, Customer will notify Google and will issue a purchase order number to Google.
+(2) If Customer notifies Google that it requires a purchase order, and fails to provide the purchase order number to Google, then Google is not obligated to provide the Services until Google receives the purchase order.
+(3) Without limiting Section 15.13 (Entire Agreement), Customer’s purchase order terms and conditions will not apply to or modify an Agreement.
+(4) Any Service-specific order requirements will be stated in the applicable Agreement.
+(B) Delivery. Google will provide the Services only after Google receives, and accepts, (1) a complete and properly signed Order Form and, (2) if required, a purchase order.
+6.3 Payment. Customer will pay all amounts due under the applicable Agreement 30 days from the invoice date in the currency specified in the Order Form by electronic transfer in accordance with the invoice. Customer will be responsible for all fees and charges it incurs in connection with that transfer.
+6.4 Taxes.
+(A) Invoicing and Payments. Taxes are not included in the Fees. Customer will pay itemized, correctly-stated Taxes for the purchased Services unless Customer provides a valid tax exemption certificate.
+(B) Withholding Taxes. If Customer is legally required to withhold Taxes, Customer will do so, but will pay Google the full Fee amounts specified in the Agreement.
+6.5 Invoice Disputes.
+(A) Customer must submit any invoice disputes to Google before the invoice due date.
+(B) If the parties agree that there are billing inaccuracies, Google will issue a credit memo specifying the incorrect amount in the affected invoice (but will not issue a corrected invoice).
+(C) If the disputed invoice under Subsection (B) has not yet been paid, Google will apply the credit memo amount to the disputed invoice and Customer will pay the resulting net balance due on that invoice.
+6.6 Late Payments.
+(A) Google may charge interest on any overdue amounts under the applicable Agreement at 1.5% per month (or the highest rate permitted by law, if less), from the due date until the actual payment date, whether before or after judgment.
+(B) Customer will pay all reasonable expenses (including legal fees) incurred by Google in collecting overdue amounts, except where the overdue amounts are due to Google’s billing inaccuracies.
+7. Term and Termination.
+7.1 Term.
+(A) Unless terminated earlier in accordance with their terms, these Master Terms will remain in effect for the Term.
+(B) Unless terminated earlier in accordance with its terms, each Agreement will remain in force for the applicable License Term, at the end of which it will terminate automatically.
+7.2 Mutual Termination Rights. Either party may terminate any Agreement or these Master Terms effective immediately on written notice if the other party:
+(A) is in material breach of any Agreement and fails to cure the breach within 30 days after receipt of written notice; or
+(B) materially breaches any Agreement more than two times regardless of its cure of those breaches.
+7.3 Google Notice of Breach; Suspension of Services; Termination Rights.
+(A) If Google becomes aware that Customer is in material breach of any Agreement, Google will notify Customer in writing and may immediately suspend the Services until Customer cures its breach.
+(B) To fulfill Google’s legal obligations under Anti-Bribery Laws, Google may terminate any Agreement or these Master Terms if, in Google’s reasonable belief, Customer has violated or has caused Google to violate any Anti-Bribery Laws, or that such a violation is reasonably likely to occur.
+(C) Google may terminate any Agreement or these Master Terms immediately upon written notice if Google reasonably determines that applicable laws make it impracticable to continue providing the Service(s).
+7.4 Effects of Termination.
+(A) General.
+(1) When any Agreement terminates, all rights under that Agreement cease.
+(2) When these Master Terms terminate, all Agreements automatically terminate.
+(B) Termination for Customer’s breach. If Google terminates an Agreement for Customer’s breach, then all amounts owed by Customer under that Agreement will be immediately due.
+(C) Survival. Those provisions that by their nature should survive termination of an Agreement, will survive termination of such Agreement, including Section 9 (Compliance with Laws).
+8. Intellectual Property.
+8.1 Ownership; Rights.
+(A) Google or its licensors own all Content accessed through the Services.
+(B) No Agreement grants either party any rights to the other party’s Intellectual Property Rights unless the Agreement expressly states that it does.
+(C) No Agreement grants either party any implied licenses.
+8.2 Brand Features.
+(A) If Customer displays Google Brand Features in connection with its use of the Services, Customer must comply with the Google trademark guidelines at https://www.google.com/permissions/guidelines.html.
+(B) Any use of a party’s Brand Features inures to the benefit of the party holding rights in those Brand Features. Neither party will:
+(1) challenge or assist others to challenge the other party’s Brand Features (except to protect that party’s rights with respect to its own Brand Features); or
+(2) attempt to register any Brand Features that are confusingly similar to those of the other party.
+9. Compliance with Laws.
+(A) In performing its obligations under an Agreement, Customer will comply with:
+(1) all Export Control Laws; and
+(2) all Anti-Bribery Laws (for example, Customer will not make any facilitation payments, which are payments to induce Government Officials to perform routine functions they are otherwise obligated to perform).
+(B) Breach of this Section 9 constitutes a material breach of the applicable Agreement.
+10. Verification and Audit.For Services that are measured by Maps API Credits, Page Views, or Queries,Google has the ability to independently track Customer’s use of those Services, but for other Services (such as Asset Tracking), Google relies on Customer to measure Customer’s own usage of the Services (including usage beyond the Use Limits specified in an Order Form). To verify Customer’s usage of self-measured Services, each of the following will apply not more than once per calendar year:
+(A) At Google’s written request, Customer will provide Google with a certification signed by a Customer officer verifying the Services are being used in compliance with the applicable Agreement(s).
+(B) On at least 30 days prior written notice, Google may appoint a nationally-recognized certified public accountant or independent auditor to examine and verify Customer’s compliance with any and all applicable Agreements.
+(1) Audits will be conducted during regular business hours at Customer’s facilities and will not unreasonably interfere with Customer’s business activities.
+(2) Customer will provide Google with reasonable access to the relevant Customer records and facilities.
+(3) If an audit reveals that Customer has underpaid Fees to Google during the period audited, then Google will invoice Customer, and Customer will pay Google within 30 days, for the underpaid Fees based on the higher of (x) the price specified in each applicable Agreement or (y) Google’s price list in effect at the time the audit is completed.
+(4) If the underpaid Fees exceed 5% of the Fees paid by Customer for the Services during the preceding six-month period, then Customer will also pay Google’s reasonable audit costs.
+11. Confidentiality; Publicity.
+11.1 Obligations. The recipient will not disclose the Confidential Information, except to employees, Affiliates, agents or professional advisors who need to know it and who have agreed in writing (or in the case of professional advisors are otherwise bound) to keep it confidential. The recipient will ensure that those people and entities use the received Confidential Information only to exercise rights and fulfill obligations under the applicable Agreement, and that they keep it confidential.
+11.2 Required Disclosure. The recipient may disclose Confidential Information when required by law after giving reasonable notice to the discloser, if permitted by law.
+11.3 Publicity. Neither party may make any public statement regarding an Agreement without the other’s written approval, except that Google may (A) orally state that Customer is a Google customer; and (B) include Customer’s name or Brand Features in a list of Google customers in Google’s online or offline promotional materials.
+12. Representations and Warranties.
+12.1 Authority. Each party represents and warrants that it has the necessary right, power, and authority to enter into these Master Terms and each Agreement.
+12.2 Services. During any applicable License Term, Google warrants that it will provide the Services in accordance with the service levels described in the applicable Service Addendum.
+12.3 DISCLAIMERS.
+(A) THE PARTIES’ ONLY REPRESENTATIONS AND WARRANTIES UNDER THE APPLICABLE AGREEMENT ARE EXPRESSLY STATED IN THIS SECTION 12 (AND, TO THE EXTENT APPLICABLE, IN THE SERVICE ADDENDUM(S)).
+(B) TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE PARTIES DISCLAIM ALL OTHER REPRESENTATIONS, WARRANTIES, CONDITIONS, OR OTHER TERMS OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WARRANTIES OF SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, OR CONFORMANCE WITH DESCRIPTION. WITHOUT LIMITATION:
+(1) GOOGLE, ITS AFFILIATES, LICENSORS, AND EACH OF THEIR SUPPLIERS DISCLAIM ANY REPRESENTATION OR WARRANTY THAT THE OPERATION OF ANY SOFTWARE WILL BE ERROR-FREE OR UNINTERRUPTED.
+(2) GOOGLE, ITS AFFILIATES, LICENSORS, AND EACH OF THEIR SUPPLIERS DISCLAIM ANY REPRESENTATION OR WARRANTY OF CONTENT ACCURACY.
+13. Defense and Indemnity.
+13.1. Definitions.
+(A) “Indemnified Liabilities” means any (1) settlement amounts approved by the indemnifying party; and (2) damages and costs in a final judgment awarded against the indemnified part(ies) by a competent court.
+(B) “Third-Party Legal Proceeding” means any formal legal proceeding filed by an unaffiliated third party before a court or government tribunal (including any civil, administrative, investigative or appellate proceeding).
+13.2. Obligations. Subject to Sections 13.4 (Conditions) and 14 (Limitations of Liability):
+(A) Google’s Obligations. Google will defend Customer and its Affiliates, and indemnify them against Indemnified Liabilities, in any Third-Party Legal Proceeding to the extent arising from an allegation that Customer’s use of Google‘s technology used to provide the Services (excluding any open source software) infringes the third party’s Intellectual Property Rights.
+(B) Customer’s Obligations. Customer will defend Google and its Affiliates, and indemnify them against Indemnified Liabilities, in any Third-Party Legal Proceeding to the extent arising from:
+(1) an allegation that Customer’s conduct described in Subsection 13.3 (Exclusions) infringes the third party’s Intellectual Property Rights;
+(2) Customer’s breach of Section 9 (Compliance with Laws); or
+(3) Customer’s failure to obtain all necessary rights and consents to provide data (if any) to Google (including Service usage metrics or data that identifies the location and movements of individual Customer personnel or other assets).
+13.3. Exclusions. This Section 13 (Defense and Indemnity) will not apply to the extent the underlying allegation arises from:
+(A) the indemnified party’s breach of an Agreement;
+(B) modification to Google’s technology by anyone other than Google;
+(C) combination of Google’s technology with materials not provided by Google;
+(D) failure to use the most current, supported version of Google’s technology provided under an Agreement; or
+(E) compliance with Customer’s design or request for customized features.
+13.4. Conditions. Section 13.2 (Obligations) is conditioned on the following:
+(A) The indemnified party must promptly notify the indemnifying party of any allegation(s) that preceded the Third-Party Legal Proceeding and cooperate reasonably with the indemnifying party to resolve the allegation(s) and Third-Party Legal Proceeding. If a breach of this Subsection (A) prejudices the defense of the Third-Party Legal Proceeding, the indemnifying party’s obligations under this Section 13 (Defense and Indemnity) will be reduced in proportion to the prejudice.
+(B) The indemnified party must tender sole control of the indemnified portion of the Third-Party Legal Proceeding to the indemnifying party, subject to the following:
+(1) the indemnified party may appoint its own non-controlling counsel, at its own expense; and
+(2) any settlement requiring the indemnified party to admit liability, pay money, or take (or refrain from taking) any action, will require the indemnified party’s prior written consent, not to be unreasonably withheld, conditioned, or delayed.
+13.5. Remedies.
+(A) If Google’s technology used to provide the Services is subject to an Intellectual Property Rights allegation or Third-Party Legal Proceeding, Google may do the following at its sole option and expense:
+(1) procure the right to continue providing its technology in compliance with these Master Terms; or
+(2) modify its technology without materially reducing the Services’ functionality; or
+(3) replace its technology with a functionally-equivalent alternative.
+(B) If the remedies under Section 13.5(A) are not commercially reasonable, then:
+(1) Google may terminate the license for the allegedly-infringing portion of the Services; and
+(2) within 45 days after such license termination, Google will pay Customer a pro rata refund of amounts prepaid to use the allegedly-infringing portion of the Services during the now-terminated period.
+13.6. Sole Rights and Obligations. Without affecting either party’s termination rights, this Section 13 states the parties’ only rights and obligations under these Master Terms for Intellectual Property Rights related allegations and Third-Party Legal Proceedings.
+14. LIMITATIONS OF LIABILITY.
+14.1 LIABILITY. IN SECTION 14, “LIABILITY” MEANS ANY LIABILITY, WHETHER UNDER CONTRACT, TORT, OR OTHERWISE, INCLUDING FOR NEGLIGENCE. LIABILITY INCLUDES ALL AMOUNTS A PARTY INCURS TO FULFILL SECTION 13 (DEFENSE AND INDEMNITY).
+14.2 LIMITATIONS. SUBJECT TO SECTION 14.3 (EXCEPTIONS TO LIMITATIONS):
+(A) NEITHER PARTY WILL HAVE ANY LIABILITY ARISING OUT OF OR RELATING TO THESE MASTER TERMS, ANY AGREEMENT, OR THE SERVICES FOR:
+(1) LOSS OF ANY:
+A. ACTUAL OR ANTICIPATED PROFITS;
+B. ANTICIPATED SAVINGS;
+C. BUSINESS OPPORTUNITY; OR
+D. REPUTATION OR DAMAGE TO GOODWILL;
+(2) INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL LOSSES (WHETHER OR NOT THE LOSSES WERE FORESEEABLE OR CONTEMPLATED BY THE PARTIES AT THE MASTER TERMS EFFECTIVE DATE); OR EXEMPLARY OR PUNITIVE DAMAGES; AND
+(B) EACH PARTY'S TOTAL AGGREGATE LIABILITY:
+(1) ARISING OUT OF OR RELATING TO THESE MASTER TERMS IS LIMITED TO USD 50,000; AND
+(2) ARISING OUT OF OR RELATING TO EACH AGREEMENT IS LIMITED TO THE AMOUNT PAID AND PAYABLE BY CUSTOMER TO GOOGLE UNDER THAT AGREEMENT.
+14.3 EXCEPTIONS TO LIMITATIONS. NOTHING IN ANY AGREEMENT EXCLUDES OR LIMITS EITHER PARTY’S LIABILITY FOR:
+(A) DEATH OR PERSONAL INJURY RESULTING FROM ITS NEGLIGENCE OR THE NEGLIGENCE OF ITS EMPLOYEES OR AGENTS;
+(B) FRAUD OR FRAUDULENT MISREPRESENTATION;
+(C) BREACH OF THE LICENSES GRANTED UNDER THAT AGREEMENT;
+(D) INFRINGEMENT OF THE OTHER PARTY’S INTELLECTUAL PROPERTY RIGHTS;
+(E) PAYMENT OF THE FEES AND APPLICABLE TAXES;
+(F) BREACH OF SECTIONS 11.1 OR 11.2 (CONFIDENTIALITY); OR
+(G) MATTERS FOR WHICH LIABILITY CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+15. General.
+15.1 Notices. All notices of termination or breach must be in writing and addressed to the other party’s legal department. The email address for notices being sent to Google’s legal department is legal-notices@google.com. All other notices must be in English, in writing and addressed to the other party’s primary contact. Notice will be treated as given on receipt, as verified by written or automated receipt or by electronic log (as applicable).
+15.2 Amendment. Any amendment to an Agreement must be in writing, signed by both parties, and expressly state that it amends such Agreement.
+15.3 Assignment. Neither party may assign any part of an Agreement without the written consent of the other, except to an Affiliate where:
+(A) the assignee has agreed in writing to be bound by the terms of the Agreement;
+(B) the assigning party remains liable for obligations under the Agreement if the assignee defaults on them; and
+(C) the assigning party has notified the other party of the assignment. Any other attempt to assign is void.
+15.4 Change of Control. If a party experiences a change of control (for example, through a stock purchase or sale, merger, or other form of corporate transaction):
+(A) that party will give written notice to the other party within 30 days after the change of control; and
+(B) the other party may immediately terminate the affected Agreement(s) any time between the change of control and 30 days after it receives that written notice.
+15.5 Force Majeure. Neither party will be liable for failure or delay in performance to the extent caused by circumstances beyond its reasonable control. Google may (at its sole discretion) suspend the provision of any Services or modify any Services at any time to comply with any applicable law. If any suspension under this Section continues for more than 30 days, Customer may, at any time until use of the applicable Services is reinstated, terminate the applicable Agreement(s) immediately on written notice.
+15.6 Governing Law. ALL CLAIMS ARISING OUT OF OR RELATING TO THESE MASTER TERMS, EACH AGREEMENT, OR ANY RELATED GOOGLE PRODUCTS OR SERVICES WILL BE GOVERNED BY CALIFORNIA LAW, EXCLUDING CALIFORNIA’S CONFLICT OF LAWS RULES, AND WILL BE LITIGATED EXCLUSIVELY IN THE FEDERAL OR STATE COURTS OF SANTA CLARA COUNTY, CALIFORNIA, USA; THE PARTIES CONSENT TO PERSONAL JURISDICTION IN THOSE COURTS.
+15.7 No Agency. No Agreement creates any agency, partnership or joint venture between the parties.
+15.8 Subcontracting. Customer may not delegate its duties or subcontract any work performed under these Master Terms without Google’s prior written consent (which can be revoked at any time). Customer must enter into a written agreement with subcontractor that contains terms that are at least as protective of Google as the terms of these Master Terms. Customer remains responsible for compliance of subcontractor and its personnel in all respects with these Master Terms.
+15.9 No Waiver. Neither party will be treated as having waived any rights by not exercising (or delaying the exercise of) any rights under any Agreement.
+15.10 Severability. If any term (or part of a term) of an Agreement is invalid, illegal or unenforceable, the rest of the Agreement will remain in effect.
+15.11 No Third Party Rights. No Agreement confers any benefits on any third party unless it expressly states that it does.
+15.12 Counterparts. The parties may execute an Agreement in counterparts, including facsimile, PDF, and other electronic copies, which taken together will constitute one instrument.
+15.13 Entire Agreement.
+Unless otherwise expressly agreed by the parties in the applicable Agreement:
+(A) these Master Terms (or, if applicable, an Agreement) constitutes the entire agreement between the parties and supersedes and replaces all previous agreements between the parties relating to its subject matter; and
+(B) in entering into these Master Terms (or, if applicable, an Agreement), neither party has relied on (and neither party will have any right or remedy based on), any statement, representation or warranty (whether made negligently or innocently), except those expressly stated in these Master Terms (or the applicable Agreement).
+SERVICE ADDENDUM: Google Maps APIs Premium Plan
+1. Agreement Integration.
+(A) This is the Service Addendum for the Google Maps APIs Premium Plan (the “Maps APIs Addendum”).
+(B) This Maps APIs Addendum will be effective on the date Services are provisioned as specified in the applicable Order Form (“Maps APIs Addendum Effective Date”) and is entered into under the Master Terms above (“Master Terms”).
+2. Definitions.Capitalized terms not defined in this Maps APIs Addendum will have the meanings given to them in the Master Terms. In this Maps APIs Addendum, the following additional definitions will also apply:
+2.1 “Assets” means those assets actively Tracked by Customer, such as personnel, vehicles, or other physical assets.
+2.2 “Integrated Solution” means a Customer Implementation that is a business-to-business product or a fee-based business-to-consumer product.
+2.3 “Maps API Credit” means a billing unit based on:
+(A) a single load of a map using a Maps API; or
+(B) a set of non-map query responses from the Maps APIs (for example, text-based responses such as geocodes).
+2.4 “Maps APIs Addendum Term” means the term of this Maps APIs Addendum, which will begin on the Maps APIs Addendum Effective Date and continue until the earlier of: (a) the end of the last License Term; or (b) termination of this Maps APIs Addendum in accordance with the Master Terms.
+2.5 “Overage” means Customer’s use of the Service beyond the Use Limits specified in an Order Form.
+2.6 “Page View" means a billing unit based on a single load of API script by the End User’s browser.
+2.7 “Query” means a billing unit based on a single query to the Service.
+2.8 “Service” means the Google Maps APIs Premium Plan and the APIs described at https://enterprise.google.com/maps/terms/premium-included-apis.html.
+2.9 “Services Description” means the Google Maps APIs services description described at https://enterprise.google.com/maps/terms/maps-services-summary.html.
+2.10 “Track” means to use an application to locate a moving Asset based on current latitude/longitude coordinates provided to the application through position sensor(s) (such as a mobile device’s GPS or accelerometers).
+2.11 “URL Terms” means the following, in the listed order of precedence if there is a conflict:
+(A) the Service’s Acceptable Use Policy at https://enterprise.google.com/maps/terms/universal_aup.html;
+(B) the Google Maps / Google Earth Legal Notices at https://maps.google.com/help/legalnotices_maps.html;
+(C) the Google Maps / Google Earth Additional Terms of Service at https://maps.google.com/help/terms_maps.html;
+(D) Google Developer Guidelines applicable to each Service at: https://developers.google.com/products/#m;
+(E) the Service’s then-current Service Level Agreement at https://enterprise.google.com/maps/terms/maps-sla.html;
+(F) the Service’s then-current Technical Support Services Guidelines at https://enterprise.google.com/maps/terms/tssg.html; and
+(G) the Google Maps APIs Deprecation Terms at https://enterprise.google.com/maps/terms/deprecation-policy.html.
+3. Use of Service 
+Subject to Customer’s compliance with the applicable Agreement (including payment of all applicable Fees and Taxes), Google grants to Customer a non-sublicensable, non-transferable, non-exclusive, terminable license to do the following during the License Term in the Customer Implementation(s) only:
+(A) use the Service to publicly display the Content; and
+(B) if Customer orders a SKU with Asset Tracking functionality, Track Assets.
+4. Customer Obligations.
+4.1 Customer Domains and Applications. The Customer must own or control the web domain(s) and application(s) listed on the Order Form. Unless otherwise specified in the Order Form, Customer may add additional domains and applications using an online tool, as specified in the Service Documentation. Prior to providing the Service, Google may verify that Customer owns or controls the listed domain(s) and application(s). If Customer does not own or control the domain(s) and application(s), then Google will have no obligation to provide the Service to Customer.
+4.2 Customer ID Restrictions. Customer IDs are required, will be forwarded to Customer electronically, and must be used according to the Service Documentation. Google may elect not to respond to requests with an invalid Customer ID. Customer’s failure to use a Customer ID will prevent access to the Service and will suspend Google’s obligations under this Maps APIs Addendum unless and until Customer complies with this Section 4.2.
+4.3 Compliance with URL Terms. Customer will comply with, and is responsible for End Users’ compliance with, the URL Terms.
+5. Ordering and Reporting.
+5.1 Ordering.
+(A) Fees. The Fees are based on the information specified on the Order Form (for example, the SKU, the billing units, Assets Tracked, End Users, or all of the above, as applicable for the Service(s) ordered).
+(B) Purchasing Additional SKUs. To use certain APIs in the Service, Customer may be required to purchase additional SKUs.
+(C) Asset Tracking SKUs. If Customer orders a SKU for a Service that includes Asset Tracking, the Order Form must indicate the countries where Customer may use the Service.
+(D) Internal-Use SKU. For any “internal-use only” Customer Implementation (for use behind Customer’s firewall), Customer must purchase the SKU that corresponds to “internal-use” billing units.
+(E) Purchasing Higher Use Limits. If Customer is not in breach of the applicable Agreement, Google may provide Customer an opportunity to purchase higher Use Limits.
+(F) Map API Credits.For Services billed in Map API Credits, the rate of Map API Credit consumption for each Google Maps API is listed at https://enterprise.google.com/maps/terms/premium-included-apis.html.
+(G) Page Views. Customer may use Page Views for either internal or external use. Customer may only use external Page Views on free, publicly-accessible websites.
+5.2 Overages.
+(A) Maps API Credits; Page Views; Queries. If the applicable billing unit is Maps API Credits, Page Views, or Queries, Google will notify Customer before Customer exceeds the Use Limit indicated on the Order Form. If Customer exceeds its Maps API Credits, Page Views, or Queries Use Limits during the License Term, Google will invoice Customer for Overages on written notice (which may be by email). If, after 30 days from the date of that written notice, Customer continues to exceed its Maps API Credits, Page Views, or Queries Use Limit, Google may stop providing the Service to the Customer.
+(B) Other Billing Units. For all other billing units, Customer must notify Google of any Overages within 30 days of the day the Overage occurred.
+(C) Invoicing and Payment. If there is an Overage, Google will invoice Customer, and Customer will pay for the Overage at the rates indicated in the Order Form.
+(D) No Extension of License Term. Overage payments do not extend the License Term.
+5.3 Reporting. To ensure proper ordering and billing, Customer will promptly report to Google in writing if it changes its Customer Implementation or increases its use of the Services, as follows:
+(A) if Customer did not previously order a SKU permitting Asset Tracking, it will need to do so if the Customer Implementation enables a device to Track Assets;
+(B) if Customer previously ordered a SKU where the billing unit is Assets, Customer must notify Google if Customer increases the number of Assets Tracked per country per month; and
+(C) if Customer starts using an API that Google identified as “upgradeable”, Customer must notify Google and may be charged additional Fees for the “upgraded” use .
+6. Advertising. Customer may configure the Service to either display or not display advertisements served by Google through the Service to End Users in its sole discretion. Such advertisements will be enabled as provided in the Service Documentation.
+7. Integrator Rights and Obligations. If a Customer Implementation is an Integrated Solution, then Customer must purchase an “OEM” SKU, and the following additional terms will apply to such use. In this Section 7 (Integrator Rights and Obligations), Customer is referred to as the “Integrator”.
+7.1 Integrator License. Subject to the Agreement, Google grants to Integrator a non-sublicensable, non-transferable, non-exclusive, terminable license to integrate the Service into the Integrated Solution. The licenses granted under this Section 7 do not reduce the scope of the license granted to Integrator under Section 3 (Use of Service).
+7.2 Resell License. Subject to the Agreement, Google grants to Integrator a non-sublicensable, non-transferable, non-exclusive, terminable license to resell the Service as integrated into the Integrated Solution to its customers.
+7.3 End User Terms. Integrator will ensure that its customers and their End Users comply with the then-current terms at the URLs listed below:
+(A) the Google Maps / Google Earth Additional Terms of Service at https://maps.google.com/help/terms_maps.html;
+(B) the Google Maps / Google Earth Legal Notices at https://maps.google.com/help/legalnotices_maps.html; and
+(C) the Service’s Acceptable Use Policy at https://enterprise.google.com/maps/terms/universal_aup.html.
+7.4 Integrator License Restrictions. Other than as permitted by this Section 7 (Integrator Rights and Obligations), Integrator will not:
+(A) resell or otherwise distribute the Service separately from the Integrated Solution;
+(B) integrate or bundle the Service with any other product besides the Integrated Solution;
+(C) provide its Customer ID (including any Service access keys) to any of its customers;
+(D) distribute or market the Integrated Solution in the Prohibited Territory;
+(E) create an Integrated Solution that uses a non-Google map; or
+(F) unless Integrator obtains Google’s advanced written consent to do so:
+(G) use or provide any part of the Service or Content in an API that Integrator offers to others; or
+(H) create an Integrated Solution that re-implements or duplicates the Service (i.e., the Integrated Solution must provide substantial additional features or content beyond the Service, and those additional features or content must constitute the primary defining characteristic of the Integrated Solution).
+7.5 Integrated Solution Design and Marketing.
+(A) Design. At least 75 days before a new Integrated Solution’s public launch, Integrator will notify Google of the proposed launch. At least 60 days before the proposed public launch, Integrator will respond to Google’s Integrator questionnaire at https://services.google.com/fb/forms/mapsintegrator/. Integrator will respond to Google’s reasonable requests for additional information, including the appointment of a single technical contact. Google reserves the right to require reasonable modifications either pre- or post-launch if the Integrated Solution does not comply with the applicable Agreement.
+(B) Marketing Plan. Integrator will not engage in any marketing or promotional activities involving the Service without Google’s prior written consent. Integrator will respond to Google’s reasonable requests for information regarding Integrator’s use of the Google Brand Features in the Integrated Solution.
+7.6 Integrated Solution Technical Support Services. Integrator will be responsible for providing all technical support services to its Integrated Solution customers.
+7.7 Additional Integrator Indemnities.
+(A) In addition to the indemnities in the Master Terms, Integrator will defend Google and its Affiliates, and indemnify them against Indemnified Liabilities in any Third-Party Legal Proceeding to the extent arising from or in connection with:
+(1) an allegation that the Integrated Solution infringes the third party’s Intellectual Property Rights; or
+(2) use of the Integrated Solution by any of Integrator’s customers.
+(B) This Section 7.7 will be subject to the exclusions, conditions, and other provisions of Master Terms Section 13 (Defense and Indemnity).
+7.8 Infringement Allegations against the Integrated Solution. If the Integrated Solution is alleged to infringe a third party’s Intellectual Property Rights, Google may require Integrator to cease distributing or selling the Integrated Solution on 30 days written notice. In any event, this Section 7.8 does not reduce Integrator’s obligations under Section 7.7 (Additional Integrator Indemnities).
+7.9 No Assignment of Integrator Rights and Obligations. Integrator will not assign its rights under this Section 7 (Integrator Rights and Obligations) to any Affiliate or third party. Any such attempted assignment is void. This Section 7.9 supersedes Master Terms Section 15.3 (Assignment).
+8. Maps APIs Addendum Term; Renewal; Termination.
+8.1 Maps APIs Addendum Term. Subject to Customer’s compliance with the Agreement (including payment of applicable Fees and Taxes), this Maps APIs Addendum will remain in effect for the Maps APIs Addendum Term.
+8.2 License Term Renewal(s).
+(A) Notwithstanding Master Terms Section 6.1 (Purchase Process), each Agreement under this Maps APIs Addendum will automatically renew for consecutive 12-month renewal terms.
+(B) If a party does not want the applicable License Term to automatically renew, then it must provide the other party a written termination notice at least 15 days before the then-current License Term’s expiration date.
+(C) A party’s timely non-renewal notice will be effective when the then-current License Term expires.
+(D) At the end of each License Term, any unused billing units (including any upgrades) will automatically expire and will not carry over into the next License Term (if any).
+8.3 Termination. The Master Terms’ term and termination provisions apply to this Maps APIs Addendum.
+RESALE CUSTOMER ADDENDUM
+1. Background.
+(A) A customer (“Resale Customer”) who purchases Google Maps APIs Services through an authorized reseller (“Partner”) is subject to two agreements:
+(1) the “Partner Agreement” between Resale Customer and Partner; and
+(2) the “Google Maps Agreement” incorporated by reference into the Partner Agreement.
+(B) The Google Maps Agreement consists of three parts:
+(1) the “Master Terms” containing general terms governing all Maps APIs products;
+(2) the “Maps APIs Premium Plan Service Addendum” containing additional terms specific to the Maps APIs; and
+(3) this “Resale Customer Addendum”.
+(C) This Resale Customer Addendum amends the Google Maps Agreement to make it applicable to Resale Customer. This Resale Customer Addendum is not applicable to customers who only purchase Google Maps Services directly from Google.
+2. Enforcement. By using the Google Maps Services, Resale Customer accepts Google’s offer to enter into a binding contract on the Agreement’s terms, as amended by this Resale Customer Addendum. Resale Customer represents that: (a) it has full power and authority to enter into the Agreement; and (b) the Agreement is Resale Customer’s valid and binding obligation, enforceable in accordance with its terms.
+3. Master Terms.For Resale Customer, the Master Terms are amended as follows:
+3.1 Order Form. Master Terms Section 1.17 (Definitions and Interpretation) is deleted and replaced with the following:
+“Order Form” means an order form entered into by Partner and Resale Customer, subject to the Agreement.
+3.2 Order of Precedence. Master Terms Section 2.3 (Order of Precedence) is deleted and replaced with the following:
+“2.3. Order of Precedence. If any documents conflict, the parties will interpret them in descending order of precedence from (A) through (E) below. For example, if there is a conflict between an applicable Service Addendum and the Order Form, the Service Addendum will take precedence.
+(A) Resale Customer Addendum;
+(B) the applicable Service Addendum;
+(C) the Master Terms;
+(D) the URL Terms; and
+(E) the Order Form.”
+3.3 Orders and Payment. Master Terms Section 6 (Orders and Payment) does not apply to Resale Customer and is deleted in its entirety. The Partner Agreement governs Resale Customer’s Service-related orders and payments.
+3.4 Effects of Termination. Master Terms Section 7.4(B) (Effects of Termination; Termination for Customer’s breach) does not apply to Resale Customer and is deleted in its entirety.
+3.5 Verification and Audit. Master Terms Sections 10(B)(3) and (4) (Verification and Audits) do not apply to Resale Customer and are deleted in their entirety.
+4. Maps APIs Premium Plan Service Addendum. For Resale Customer, the Maps APIs Premium Plan Service Addendum is modified as follows:
+4.1 Ordering and Reporting. Maps APIs Premium Plan Service Addendum Section 5 (Ordering and Reporting) is amended as follows: all references to “Google” are replaced with the word “Partner”.
+4.2 License Term Renewal(s). Maps APIs Premium Plan Service Addendum Section 8.2 (License Term Renewal(s)) does not apply to Resale Customer and is deleted in its entirety. The Partner Agreement governs any Resale Customer license renewals.
+Last updated: 2016-10-21
